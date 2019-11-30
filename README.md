@@ -1,2 +1,6 @@
 # Scripts to reproduce examples in Rotnitzky and Smucler (2019)
-Scripts to reproduce examples in Rotnitzky and Smucler (2019). Run scenarios_time.R for Example 3 and scenarios_latent.R for Example 4.
+Scripts to reproduce examples in Rotnitzky and Smucler (2019). 
+
+* Run scenarios_time.R to reproduce the results in Example 3.
+* Run scenarios_latent.R to reproduce the results in Example 4.
+* utils.R contains several auxiliary functions.
